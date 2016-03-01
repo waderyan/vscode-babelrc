@@ -18,7 +18,7 @@
 	"contributes": {
 		"jsonValidation": [{
 			"fileMatch": ".babelrc",
-			"title": "http://json.schemastore.org/babelrc"
+			"url": "http://json.schemastore.org/babelrc"
 		}]
 	},
     "scripts": {
